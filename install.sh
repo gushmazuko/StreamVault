@@ -10,7 +10,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # GitHub raw URL for the main script
-SCRIPT_URL="https://github.com/gushmazuko/streamvault/raw/master/streamvault.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/gushmazuko/streamvault/refs/heads/main/streamvault.sh"
 INSTALL_DIR="$HOME/.streamvault"
 
 echo -e "${YELLOW}StreamVault Installer${NC}"

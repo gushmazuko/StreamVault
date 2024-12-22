@@ -28,7 +28,7 @@ A powerful and user-friendly Bash script for downloading videos and audio from v
 ### Quick Install (Recommended)
 
 ```bash
-source <(curl -fsSL https://github.com/gushmazuko/streamvault/raw/master/streamvault.sh)
+source <(curl -fsSL https://raw.githubusercontent.com/gushmazuko/streamvault/refs/heads/main/install.sh)
 ```
 
 ### Manual Installation
